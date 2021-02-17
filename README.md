@@ -1,4 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuebinqin&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
+
+> I am currently a postdoctoral fellow in the Department of Computing Science and Department of Radiology & Diagnostic Imaging at University of Alberta. My research interests are computer vision, image processing, ML/DL, AI and their applications in different applications such as image segmentation, visual tracking, medical image analysis, robotcis, autonomous driving, etc.
 
 <!--
 **xuebinqin/xuebinqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
